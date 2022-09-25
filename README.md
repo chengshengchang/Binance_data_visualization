@@ -9,5 +9,5 @@ Using Binance API get Financial data , and  preprocessing it , and use MPL libra
 3. Visualize
 
 ## Reference document
-Binance-api : https://python-binance.readthedocs.io/en/latest/
-Mplfinance : https://github.com/matplotlib/mplfinance
+- Binance-api : https://python-binance.readthedocs.io/en/latest/
+- Mplfinance : https://github.com/matplotlib/mplfinance
