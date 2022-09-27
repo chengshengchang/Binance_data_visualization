@@ -5,7 +5,7 @@ Using Binance API get Financial data , and  preprocessing it , and use MPL libra
 - preprocessing
 - visualize candle graph
 1. Set up , Auth , Get tickers , Market depth
-2. lean data and transfer to Pandas.dataframe foramt 
+2. Clean data and transfer to Pandas.dataframe foramt 
 3. Visualize
 
 ## Reference document
